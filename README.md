@@ -1,4 +1,4 @@
-# Trader Performance vs Market Sentiment — Hyperliquid × Fear/Greed Index
+# Trader Performance vs Market Sentiment - Hyperliquid × Fear/Greed Index
 
 Analyzing how Bitcoin market sentiment (Fear/Greed) affects trader behavior and performance on Hyperliquid.
 
