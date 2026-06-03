@@ -3,9 +3,8 @@
 Analyzing how Bitcoin market sentiment (Fear/Greed) affects trader behavior and performance on Hyperliquid.
 
 ## Datasets
-- `fear_greed_index.csv` — Daily Bitcoin Fear/Greed index values  
-- `historical_data.csv` — 211,224 trades across 32 accounts (not uploaded due to file size limit)
-  Download from: [Hyperliquid trader data]([paste the google drive link from the assignment here](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view))
+- `historical_data.csv` — 211,224 trades across 32 accounts (May 2023 – May 2025) from Hyperliquid
+- `fear_greed_index.csv` — Daily Bitcoin Fear/Greed index values
 
 ## What I looked at
 - Does PnL and win rate differ on Fear vs Greed days?
